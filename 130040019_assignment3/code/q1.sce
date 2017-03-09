@@ -93,7 +93,7 @@ Fs_list = [8000,8000,8000,16000]
 
 do_emphasis_list = [1,1,1,0]
 input_type = ["voiced","voiced","voiced","unvoiced"]
-selected_order_list = [10,10,10,20]
+selected_order_list = [10,10,10,18m ]
 
 for iii = 1:length(Fs_list)
         Fs = Fs_list(iii)

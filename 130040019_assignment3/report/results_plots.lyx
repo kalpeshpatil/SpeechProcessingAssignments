@@ -231,7 +231,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename /home/kalpesh/sem7/ee679/ass/130040019_assignment3/plots/Q1/LP approximation of signal s_male_16k for p = 20.jpg
+	filename /home/kalpesh/sem7/ee679/ass/130040019_assignment3/plots/Q1/LP approximation of signal s_male_16k for p = 18.jpg
 	scale 75
 
 \end_inset
@@ -243,7 +243,7 @@ status open
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-LP approximation of signal s_male_16k for p = 20
+LP approximation of signal s_male_16k for p = 18
 \end_layout
 
 \end_inset
